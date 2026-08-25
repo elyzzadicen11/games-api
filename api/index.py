@@ -85,7 +85,7 @@ vgames = [
         "year": 2016,
         "platform": ["Mobile"],
         "rating": 4.3,
-        "description": "Insert Here"
+        "description": "A fast 5v5 mobile multiplayer online battle arena game where two teams fight to destroy the enemy base."
     },
 
     {
@@ -105,19 +105,108 @@ vgames = [
         "year": 2020,
         "platform": ["PC"],
         "rating": 4.58,
-        "description": "Insert Here"
+        "description": "A 4-player online multiplayr psychological horror game where teams gather paranormal evidence inside haunted locations."
     },
 
     {
         "id": 10,
-        "title": "Phasmophobia",
-        "genre": "Survival Horror",
+        "title": "Roblox",
+        "genre": "Sandbox",
         "year": 2020,
         "platform": ["PC"],
         "rating": 4.58,
+        "description": "An online gaming platform where players can play millions of user-created games and build their own virtual experiences."
+    },
+
+    {
+        "id": 12,
+        "title": "Terraria",
+        "genre": "Action-Adventure",
+        "year": 2011,
+        "platform": ["PC", "Mobile"],
+        "rating": 4.8,
+        "description": "Insert Here"
+    },
+
+    {
+        "id": 13,
+        "title": "Grand Theft Auto V",
+        "genre": "First-Person Shooter",
+        "year": 2006,
+        "platform": ["PC", "Mobile"],
+        "rating": 4.8,
         "description": "Insert Here"
     },
    
+    {
+        "id": 14,
+        "title": "Silent Hill f",
+        "genre": "Survival Horror",
+        "year": 2006,
+        "platform": ["PC", "Mobile"],
+        "rating": 4.2,
+        "description": "Insert Here"
+    },
+
+    {
+        "id": 15,
+        "title": "The Legend of Zelda: Breath of the Wild",
+        "genre": "Action RPG",
+        "year": 2006,
+        "platform": ["PC", "Mobile"],
+        "rating": 4.2,
+        "description": "Insert Here"
+    },
+
+    {
+        "id": 16,
+        "title": "Valorant",
+        "genre": "First-Person Shooter",
+        "year": 2006,
+        "platform": ["PC", "Mobile"],
+        "rating": 4.2,
+        "description": "Insert Here"
+    },
+
+    {
+        "id": 17,
+        "title": "Papa's Pizzeria",
+        "genre": "Fast-paced",
+        "year": 2006,
+        "platform": ["PC", "Mobile"],
+        "rating": 4.2,
+        "description": "Insert Here"
+    },
+
+    {
+        "id": 18,
+        "title": "Final Fantasy X",
+        "genre": "RPG",
+        "year": 2006,
+        "platform": ["PC", "Mobile"],
+        "rating": 4.2,
+        "description": "Insert Here"
+    },
+
+    {
+        "id": 19,
+        "title": "Subnautica",
+        "genre": "Action-Adventure",
+        "year": 2006,
+        "platform": ["PC", "Mobile"],
+        "rating": 4.2,
+        "description": "Insert Here"
+    },
+
+    {
+        "id": 20,
+        "title": "Tetris",
+        "genre": "Puzzle",
+        "year": 2006,
+        "platform": ["PC", "Mobile"],
+        "rating": 4.2,
+        "description": "Insert Here"
+    },
     
 ]
 

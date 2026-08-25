@@ -76,8 +76,17 @@ vgames = [
         "platform": ["PC"],
         "rating": 4.4,
         "description": "A colorful multiplayer game where players compete in chaotic obstacle courses."
-    }
+    },
 
+    {
+        "id": 7,
+        "title": "Mobile Legends",
+        "genre": "Multiplayer Online Battle Arena",
+        "year": 2016,
+        "platform": ["Mobile"],
+        "rating": 4.3,
+        "description": "Insert Here"
+    },
 ]
 
 # HOME

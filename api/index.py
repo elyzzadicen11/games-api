@@ -23,7 +23,7 @@ vgames = [
         "title": "Minecraft",
         "genre": "Sandbox",
         "year": 2011,
-        "platform": "PC",
+        "platform": ["PC"," Mobile"],
         "rating": 4.8,
         "description": "A sandbox game focused on exploration, building, crafting, and survival."
     },
@@ -33,17 +33,17 @@ vgames = [
         "title": "Genshin Impact",
         "genre": "Action RPG",
         "year": 2020,
-        "platform": "PC",
+        "platform": ["PC"," Mobile"],
         "rating": 4.6,
         "description": "An open-world action RPG featuring exploration, combat, and elemental abilities."
     },
 
     {
         "id": 3,
-        "title": "Call of Duty: Mobile",
+        "title": "Call of Duty",
         "genre": "First-Person Shooter",
         "year": 2019,
-        "platform": "Mobile",
+        "platform": ["PC"," Mobile"],
         "rating": 4.5,
         "description": "A mobile first-person shooter featuring multiplayer and battle royale modes."
     },
@@ -53,7 +53,7 @@ vgames = [
         "title": "Wuthering Waves",
         "genre": "Action RPG",
         "year": 2024,
-        "platform": "PC",
+        "platform": ["PC"," Mobile"],
         "rating": 4.5,
         "description": "An open-world action RPG featuring exploration, fast-paced combat, and character-based gameplay."
     },
@@ -63,7 +63,7 @@ vgames = [
         "title": "Left 4 Dead",
         "genre": "Survival Horror",
         "year": 2008,
-        "platform": "PC",
+        "platform": ["PC"],
         "rating": 4.7,
         "description": "A multiplayer first-person shooter where players fight through hordes of zombies."
     },
@@ -73,7 +73,7 @@ vgames = [
         "title": "Fall Guys",
         "genre": "Battle Royale",
         "year": 2020,
-        "platform": "PC",
+        "platform": ["PC"],
         "rating": 4.4,
         "description": "A colorful multiplayer game where players compete in chaotic obstacle courses."
     }

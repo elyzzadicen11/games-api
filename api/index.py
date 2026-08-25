@@ -15,199 +15,28 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# CAR DATA
+# BAGS DATA
 vgames = [
 
     {
         "id": 1,
-        "title": "Minecraft",
-        "genre": "Sandbox",
-        "year": 2011,
-        "platform": ["PC"," Mobile"],
+        "name": ,
+        "brand": ,
+        "shape": ,
+        "material": ,
+        "rating": ,
+        "price": " ",
+        "collection": ,
+        "shape": ,
+        "color": ,
         "rating": 4.8,
+        "type:" # if handbag, tote bag, etc. 
+        "availability:" #if available online or nah
         "description": "A sandbox game focused on exploration, building, crafting, and survival."
+        "buyer-notes:" ,
     },
 
-    {
-        "id": 2,
-        "title": "Genshin Impact",
-        "genre": "Action RPG",
-        "year": 2020,
-        "platform": ["PC"," Mobile"],
-        "rating": 4.6,
-        "description": "An open-world action RPG featuring exploration, combat, and elemental abilities."
-    },
 
-    {
-        "id": 3,
-        "title": "Call of Duty",
-        "genre": "First-Person Shooter",
-        "year": 2019,
-        "platform": ["PC"," Mobile"],
-        "rating": 4.5,
-        "description": "A mobile first-person shooter featuring multiplayer and battle royale modes."
-    },
-
-    {
-        "id": 4,
-        "title": "Wuthering Waves",
-        "genre": "Action RPG",
-        "year": 2024,
-        "platform": ["PC"," Mobile"],
-        "rating": 4.5,
-        "description": "An open-world action RPG featuring exploration, fast-paced combat, and character-based gameplay."
-    },
-
-    {
-        "id": 5,
-        "title": "Left 4 Dead",
-        "genre": "Survival Horror",
-        "year": 2008,
-        "platform": ["PC"],
-        "rating": 4.7,
-        "description": "A multiplayer first-person shooter where players fight through hordes of zombies."
-    },
-
-    {
-        "id": 6,
-        "title": "Fall Guys",
-        "genre": "Battle Royale",
-        "year": 2020,
-        "platform": ["PC"],
-        "rating": 4.4,
-        "description": "A colorful multiplayer game where players compete in chaotic obstacle courses."
-    },
-
-    {
-        "id": 7,
-        "title": "Mobile Legends",
-        "genre": "Multiplayer Online Battle Arena",
-        "year": 2016,
-        "platform": ["Mobile"],
-        "rating": 4.3,
-        "description": "A fast 5v5 mobile multiplayer online battle arena game where two teams fight to destroy the enemy base."
-    },
-
-    {
-        "id": 8,
-        "title": "Apex Legends™",
-        "genre": "Battle Royale",
-        "year": 2020,
-        "platform": ["PC","Mobile"],
-        "rating": 4.07,
-        "description": "Insert Here"
-    },
-
-    {
-        "id": 9,
-        "title": "Phasmophobia",
-        "genre": "Survival Horror",
-        "year": 2020,
-        "platform": ["PC"],
-        "rating": 4.58,
-        "description": "A 4-player online multiplayr psychological horror game where teams gather paranormal evidence inside haunted locations."
-    },
-
-    {
-        "id": 10,
-        "title": "Roblox",
-        "genre": "Sandbox",
-        "year": 2020,
-        "platform": ["PC"],
-        "rating": 4.58,
-        "description": "An online gaming platform where players can play millions of user-created games and build their own virtual experiences."
-    },
-
-    {
-        "id": 12,
-        "title": "Terraria",
-        "genre": "Action-Adventure",
-        "year": 2011,
-        "platform": ["PC", "Mobile"],
-        "rating": 4.8,
-        "description": "Insert Here"
-    },
-
-    {
-        "id": 13,
-        "title": "Grand Theft Auto V",
-        "genre": "First-Person Shooter",
-        "year": 2006,
-        "platform": ["PC", "Mobile"],
-        "rating": 4.8,
-        "description": "Insert Here"
-    },
-   
-    {
-        "id": 14,
-        "title": "Silent Hill f",
-        "genre": "Survival Horror",
-        "year": 2006,
-        "platform": ["PC", "Mobile"],
-        "rating": 4.2,
-        "description": "Insert Here"
-    },
-
-    {
-        "id": 15,
-        "title": "The Legend of Zelda: Breath of the Wild",
-        "genre": "Action RPG",
-        "year": 2006,
-        "platform": ["PC", "Mobile"],
-        "rating": 4.2,
-        "description": "Insert Here"
-    },
-
-    {
-        "id": 16,
-        "title": "Valorant",
-        "genre": "First-Person Shooter",
-        "year": 2006,
-        "platform": ["PC", "Mobile"],
-        "rating": 4.2,
-        "description": "Insert Here"
-    },
-
-    {
-        "id": 17,
-        "title": "Papa's Pizzeria",
-        "genre": "Fast-paced",
-        "year": 2006,
-        "platform": ["PC", "Mobile"],
-        "rating": 4.2,
-        "description": "Insert Here"
-    },
-
-    {
-        "id": 18,
-        "title": "Final Fantasy X",
-        "genre": "RPG",
-        "year": 2006,
-        "platform": ["PC", "Mobile"],
-        "rating": 4.2,
-        "description": "Insert Here"
-    },
-
-    {
-        "id": 19,
-        "title": "Subnautica",
-        "genre": "Action-Adventure",
-        "year": 2006,
-        "platform": ["PC", "Mobile"],
-        "rating": 4.2,
-        "description": "Insert Here"
-    },
-
-    {
-        "id": 20,
-        "title": "Tetris",
-        "genre": "Puzzle",
-        "year": 2006,
-        "platform": ["PC", "Mobile"],
-        "rating": 4.2,
-        "description": "Insert Here"
-    },
-    
 ]
 
 # HOME

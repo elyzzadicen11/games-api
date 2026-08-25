@@ -87,6 +87,38 @@ vgames = [
         "rating": 4.3,
         "description": "Insert Here"
     },
+
+    {
+        "id": 8,
+        "title": "Apex Legends™",
+        "genre": "Battle Royale",
+        "year": 2020,
+        "platform": ["PC","Mobile"],
+        "rating": 4.07,
+        "description": "Insert Here"
+    },
+
+    {
+        "id": 9,
+        "title": "Phasmophobia",
+        "genre": "Survival Horror",
+        "year": 2020,
+        "platform": ["PC"],
+        "rating": 4.58,
+        "description": "Insert Here"
+    },
+
+    {
+        "id": 10,
+        "title": "Phasmophobia",
+        "genre": "Survival Horror",
+        "year": 2020,
+        "platform": ["PC"],
+        "rating": 4.58,
+        "description": "Insert Here"
+    },
+   
+    
 ]
 
 # HOME
